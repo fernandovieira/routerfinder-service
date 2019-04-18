@@ -1,0 +1,3 @@
+rootProject.name = 'routerfinder-service'
+includeFlat 'routerfinder-model'
+

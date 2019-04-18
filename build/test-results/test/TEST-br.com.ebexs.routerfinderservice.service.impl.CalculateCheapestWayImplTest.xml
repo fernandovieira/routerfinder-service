@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="br.com.ebexs.routerfinderservice.service.impl.CalculateCheapestWayImplTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2019-04-16T03:22:39" hostname="fernando-Vostro-5470" time="0.005">
+  <properties/>
+  <testcase name="shouldSpend40" classname="br.com.ebexs.routerfinderservice.service.impl.CalculateCheapestWayImplTest" time="0.004"/>
+  <testcase name="shouldThrowExceptionInvalidOrigin" classname="br.com.ebexs.routerfinderservice.service.impl.CalculateCheapestWayImplTest" time="0.001"/>
+  <testcase name="shouldThrowException" classname="br.com.ebexs.routerfinderservice.service.impl.CalculateCheapestWayImplTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
